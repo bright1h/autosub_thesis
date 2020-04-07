@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{CMUSphinxModels}
+Models.
+\newblock \url{https://cmusphinx.github.io/wiki/models/}.
+
+\bibitem{Dataset}
+Kory Becker.
+\newblock Identifying the gender of a voice using machine learning.
+\newblock
+  \url{http://www.primaryobjects.com/2016/06/22/identifying-the-gender-of-a-voice-using-machine-learning/}.
+
+\bibitem{46687}
+Chung-Cheng Chiu, Tara Sainath, Yonghui Wu, Rohit Prabhavalkar, Patrick Nguyen,
+  Zhifeng Chen, Anjuli Kannan, Ron~J. Weiss, Kanishka Rao, Katya Gonina,
+  Navdeep Jaitly, Bo~Li, Jan Chorowski, and Michiel Bacchiani.
+\newblock State-of-the-art speech recognition with sequence-to-sequence models.
+\newblock 2018.
+
+\bibitem{hannun2014deep}
+Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich
+  Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, and
+  Andrew~Y. Ng.
+\newblock Deep speech: Scaling up end-to-end speech recognition, 2014.
+
+\bibitem{VADEnergybase}
+Sakhnov Kirill, Verteletskaya Ekaterina, and B.~Simak.
+\newblock Approach for energy-based voice detector with adaptive scaling
+  factor.
+\newblock {\em IAENG International Journal of Computer Science}, 36, 11 2009.
+
+\bibitem{nagaraja2019voiploc}
+Shishir Nagaraja and Ryan Shah.
+\newblock Voiploc: Establishing voip call provenance using acoustic
+  side-channels, 2019.
+
+\bibitem{parthasarathi2019lessons}
+Sree Hari~Krishnan Parthasarathi and Nikko Strom.
+\newblock Lessons from building acoustic models with a million hours of speech,
+  2019.
+
+\bibitem{Shivakumar_2019}
+Prashanth~Gurunath Shivakumar, Haoqi Li, Kevin Knight, and Panayiotis Georgiou.
+\newblock Learning from past mistakes: improving automatic speech recognition
+  output via noisy-clean phrase context modeling.
+\newblock {\em APSIPA Transactions on Signal and Information Processing}, 8,
+  2019.
+
+\end{thebibliography}
