@@ -1,8 +1,33 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{CMUSphinxModels}
-Models.
-\newblock \url{https://cmusphinx.github.io/wiki/models/}.
+\bibitem{CeleryProj}
+Celery.
+\newblock \url{http://www.celeryproject.org/}.
+
+\bibitem{ConversationBTW2Friends}
+Conversation between two friends in english speaking.
+\newblock \url{https://www.youtube.com/watch?v=qwaSwHEB-EY}.
+
+\bibitem{ImaginaryNumber}
+Imaginary numbers are real [part 2: A little history].
+\newblock \url{https://www.youtube.com/watch?v=2HrSG0fdxLY}.
+
+\bibitem{JokerTrailer}
+Joker final trailer (2019).
+\newblock \url{https://www.youtube.com/watch?v=rgXplohCw5o}.
+
+\bibitem{Rabbit}
+Rabbitmq.
+\newblock \url{https://www.rabbitmq.com/}.
+
+\bibitem{Coronavirus}
+What actually happens if you get coronavirus?
+\newblock \url{https://www.youtube.com/watch?v=OTYfke545vI}.
+
+\bibitem{TFTS}
+Matt Abrahams.
+\newblock Think fast, talk smart: Communication techniques.
+\newblock \url{https://www.youtube.com/watch?v=HAnw168huqA}.
 
 \bibitem{Dataset}
 Kory Becker.
@@ -23,11 +48,23 @@ Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich
   Andrew~Y. Ng.
 \newblock Deep speech: Scaling up end-to-end speech recognition, 2014.
 
+\bibitem{PocketSphinx}
+David Huggins~Daines, M.~Kumar, A.~Chan, A.W. Black, M.~Ravishankar, and
+  Alexander Rudnicky.
+\newblock Pocketsphinx: A free, real-time continuous speech recognition system
+  for hand-held devices.
+\newblock volume~1, pages I -- I, 06 2006.
+
 \bibitem{VADEnergybase}
 Sakhnov Kirill, Verteletskaya Ekaterina, and B.~Simak.
 \newblock Approach for energy-based voice detector with adaptive scaling
   factor.
 \newblock {\em IAENG International Journal of Computer Science}, 36, 11 2009.
+
+\bibitem{MathEq}
+Po-Shen Loh.
+\newblock The most beautiful equation in math.
+\newblock \url{https://www.youtube.com/watch?v=IUTGFQpKaPU}.
 
 \bibitem{nagaraja2019voiploc}
 Shishir Nagaraja and Ryan Shah.
@@ -39,11 +76,22 @@ Sree Hari~Krishnan Parthasarathi and Nikko Strom.
 \newblock Lessons from building acoustic models with a million hours of speech,
   2019.
 
+\bibitem{TeachingMethod}
+Joe Ruhl.
+\newblock Teaching methods for inspiring the students of the future.
+\newblock TEDxLafayette -- \url{https://www.youtube.com/watch?v=UCFg9bcW7Bk}.
+
 \bibitem{Shivakumar_2019}
 Prashanth~Gurunath Shivakumar, Haoqi Li, Kevin Knight, and Panayiotis Georgiou.
 \newblock Learning from past mistakes: improving automatic speech recognition
   output via noisy-clean phrase context modeling.
 \newblock {\em APSIPA Transactions on Signal and Information Processing}, 8,
   2019.
+
+\bibitem{GoodTeacher}
+Azul Terronez.
+\newblock What makes a good teacher great?
+\newblock TEDxSantoDomingo --
+  \url{https://www.youtube.com/watch?v=vrU6YJle6Q4}.
 
 \end{thebibliography}

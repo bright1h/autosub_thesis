@@ -3,33 +3,35 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}%
 \contentsline {section}{\numberline {1.1}Motivation}{1}%
 \contentsline {section}{\numberline {1.2}Objective}{1}%
-\contentsline {chapter}{\numberline {2}Literature Review}{2}%
-\contentsline {section}{\numberline {2.1}Overview of Automatic Speech Recognition}{2}%
-\contentsline {subsection}{\numberline {2.1.1}Amazon Transcribe}{3}%
-\contentsline {subsection}{\numberline {2.1.2}CMUSphinx / Pocketsphinx}{3}%
-\contentsline {subsection}{\numberline {2.1.3}DeepSpeech}{3}%
-\contentsline {subsection}{\numberline {2.1.4}Google Web Speech API}{3}%
-\contentsline {chapter}{\numberline {3}Design Implementation}{5}%
-\contentsline {section}{\numberline {3.1}Overall Architecture}{5}%
-\contentsline {section}{\numberline {3.2}Front-end}{5}%
-\contentsline {section}{\numberline {3.3}Database}{7}%
-\contentsline {section}{\numberline {3.4}Back-end API}{8}%
-\contentsline {section}{\numberline {3.5}Preprocessing Worker}{8}%
-\contentsline {subsection}{\numberline {3.5.1}Processioning Audio}{8}%
-\contentsline {subsection}{\numberline {3.5.2}Voice Activity Detection}{8}%
-\contentsline {section}{\numberline {3.6}Recognizing Worker}{9}%
-\contentsline {section}{\numberline {3.7}Overlaying worker}{10}%
-\contentsline {chapter}{\numberline {4}Experiments and Results}{11}%
-\contentsline {section}{\numberline {4.1}Result of Automatic Subtitle Generator}{11}%
-\contentsline {section}{\numberline {4.2}Accuracy Evaluation}{12}%
-\contentsline {subsection}{\numberline {4.2.1}Word Error Rate}{12}%
-\contentsline {section}{\numberline {4.3}Observations}{13}%
-\contentsline {subsection}{\numberline {4.3.1}Name and Acronym}{14}%
-\contentsline {subsection}{\numberline {4.3.2}Number}{14}%
-\contentsline {subsection}{\numberline {4.3.3}Accent, Pronunciation and Noise}{15}%
-\contentsline {subsection}{\numberline {4.3.4}Systems Evalaution}{16}%
-\contentsline {section}{\numberline {4.4}Gender Recognition}{17}%
-\contentsline {subsection}{\numberline {4.4.1}Dataset}{17}%
-\contentsline {subsection}{\numberline {4.4.2}Result}{18}%
-\contentsline {chapter}{\MakeUppercase {References}}{19}%
-\contentsline {chapter}{BIOGRAPHY}{20}%
+\contentsline {section}{\numberline {1.3}Timeline}{1}%
+\contentsline {chapter}{\numberline {2}Literature Review}{3}%
+\contentsline {section}{\numberline {2.1}Overview of Existing Automatic Subtitle Generator}{3}%
+\contentsline {section}{\numberline {2.2}Overview of Automatic Speech Recognition}{3}%
+\contentsline {subsection}{\numberline {2.2.1}Amazon Transcribe}{4}%
+\contentsline {subsection}{\numberline {2.2.2}CMUSphinx / Pocketsphinx}{4}%
+\contentsline {subsection}{\numberline {2.2.3}DeepSpeech}{4}%
+\contentsline {subsection}{\numberline {2.2.4}Google Web Speech API}{5}%
+\contentsline {chapter}{\numberline {3}Design And Implementation}{6}%
+\contentsline {section}{\numberline {3.1}Overall Architecture}{6}%
+\contentsline {section}{\numberline {3.2}Frontend}{7}%
+\contentsline {section}{\numberline {3.3}Database}{9}%
+\contentsline {section}{\numberline {3.4}Backend}{9}%
+\contentsline {section}{\numberline {3.5}Preprocessing Worker}{10}%
+\contentsline {subsection}{\numberline {3.5.1}Processioning Audio}{10}%
+\contentsline {subsection}{\numberline {3.5.2}Voice Activity Detection}{10}%
+\contentsline {section}{\numberline {3.6}Recognizing Worker}{11}%
+\contentsline {section}{\numberline {3.7}Overlaying Worker}{12}%
+\contentsline {chapter}{\numberline {4}Experiments and Results}{13}%
+\contentsline {section}{\numberline {4.1}Result of Automatic Subtitle Generator}{14}%
+\contentsline {section}{\numberline {4.2}Accuracy Evaluation}{14}%
+\contentsline {section}{\numberline {4.3}Discussion}{16}%
+\contentsline {subsection}{\numberline {4.3.1}Names and Acronyms}{16}%
+\contentsline {subsection}{\numberline {4.3.2}Number}{17}%
+\contentsline {subsection}{\numberline {4.3.3}Accent, Pronunciation and Noise}{18}%
+\contentsline {subsection}{\numberline {4.3.4}Systems Evalaution}{19}%
+\contentsline {chapter}{\numberline {5}Gender Recognition}{21}%
+\contentsline {section}{\numberline {5.1}Dataset}{21}%
+\contentsline {section}{\numberline {5.2}Model Training and Results}{22}%
+\contentsline {chapter}{\numberline {6}Conclusion}{23}%
+\contentsline {chapter}{\MakeUppercase {References}}{24}%
+\contentsline {chapter}{BIOGRAPHY}{26}%
